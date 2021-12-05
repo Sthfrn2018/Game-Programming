@@ -1,0 +1,14 @@
+A11.2019.12011
+
+Cube 		-> Component = Transform, Cube (Mesh Filter), Mesh Renderer, Box Collider, Default-Material (Material)
+Sphere		-> Component = Transform, Sphere (Mesh Filter), Mesh Renderer, Sphere Collider, Default-Material (Material)
+Capsule		-> Component = Transform, Capsule (Mesh Filter), Mesh Renderer, Capsule Collider, Default-Material (Material)
+Cylinder	-> Component = Transform, Cube (Mesh Filter), Mesh Renderer, Box Collider, Default-Material (Material)
+Plane		-> Component = Transform, Plane (Mesh Filter), Mesh Renderer, Mesh Collider, Default-Material (Material)
+Quad		-> Component = Transform, Quad (Mesh Filter), Mesh Renderer, Mesh Collider, Default-Material (Material)
+Text (TMP)	-> Component = Rect transform, Mesh Renderer, TextMeshPro - Text
+Ragdoll		-> Membuat character
+Terrain		-> Component = Transform, Terrain, Terrain Collider
+Tree		-> Component = Transform, Mesh (Mesh Filter), Mesh Renderer, Default-Material (Material)
+Wind Zone	-> Component = Transform, Wind Zone
+3D Text		-> Component = Transform, Mesh Renderer, Text Mesh
